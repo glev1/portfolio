@@ -1,11 +1,17 @@
-# vlabs-challenge
+# Data Science Portfolio
 
-The main challenge was forecasting the LTV of a company's customers in the next 90 days. For this, the event organizers provided a sales record comprehending Jan/2020-Feb/2021 period from an actual retailer company. The submissions scores were based on the RMSE metric. The present solution performed feature engineering to obtain a cross-sectional approach to the problem. In this way, the 90-days LTV of a given customer is predicted based on its 11 previous month sales history.
+This repository contains all my data science projects completed by self learning purpose.
 
-- Kaggle Submission Score: 275.574 (8th Place)
-- Competition Final Score: 1st Place
+Feel free to contact me at [LinkedIn](https://www.linkedin.com/in/guilherme-levi-b78570205/)
 
-The notebook [VLabs_Final](https://github.com/glev1/vlabs-challenge/blob/main/VLabs_Final.ipynb) includes the following developed steps: exploratory data analysis, feature engineering, machine learning modeling, feature importance analysis, and submission preparation. 
+## Contents
+
+- ### Machine Learning
+
+    - [VLabs](https://github.com/glev1/portfolio/blob/main/VLABS/VLabs_Final.ipynb): Forecasting the LTV of customers in the next 90 days based on a sales record of a retailer company. This solution involves an exploratory data analysis and a process of feature engineering that makes use of the RFM market segmentation method.
+
+  _Tools: Pandas, Seaborn, Matplotlib, scikit-learn, XGBoost, SHAP_
+
 
 # Developer
 - [Guilherme Levi](https://www.linkedin.com/in/guilherme-levi-b78570205/)
