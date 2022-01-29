@@ -13,4 +13,5 @@ Feel free to contact me at [LinkedIn](https://www.linkedin.com/in/guilherme-levi
   _Tools: Pandas, Seaborn, Matplotlib, scikit-learn, XGBoost, SHAP_
   
     - [Credit Service](https://github.com/glev1/credit-service): Deployment of a Microservice that performs credit scoring. This application predicts the chance of somebody experience financial disstress in the next two years. The project uses Flask web framework and AWS App Runner to perform continuous deployment.
+
   _Tools: Pandas, XGBoost, Flask, Click_
