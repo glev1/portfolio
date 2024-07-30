@@ -1,6 +1,6 @@
 # Data Science Portfolio
 
-This repository contains all my data science projects completed by self learning purpose.
+This repository contains data science projects completed by self learning purpose.
 
 Feel free to contact me at [LinkedIn](https://www.linkedin.com/in/guilherme-levi-b78570205/)
 
